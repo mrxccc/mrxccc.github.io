@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.mrxccc.cn/posts/7963a255.html</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.mrxccc.cn/posts/c0cda934.html</loc>
     
     <lastmod>2022-02-11</lastmod>
@@ -327,6 +334,13 @@
   
   <url>
     <loc>https://blog.mrxccc.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2022-02-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mrxccc.cn/tags/easyexcel/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
